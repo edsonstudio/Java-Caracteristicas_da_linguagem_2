@@ -1,0 +1,6 @@
+strings/StringFormat.java
+ strings.StringFormat
+strings/BuilderDeString.java
+ strings.BuilderDeString
+strings/Strings.java
+ strings.Strings
