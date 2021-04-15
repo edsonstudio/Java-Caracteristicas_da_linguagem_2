@@ -4,3 +4,15 @@ strings/BuilderDeString.java
  strings.BuilderDeString
 strings/Strings.java
  strings.Strings
+operadores/Relacionais.java
+ operadores.Relacionais
+ifs/IF.java
+ ifs.IF
+operadores/Incremento.java
+ operadores.Incremento
+operadores/Igualdade.java
+ operadores.Igualdade
+operadores/Matematicos.java
+ operadores.Matematicos
+operadores/Logicos.java
+ operadores.Logicos
