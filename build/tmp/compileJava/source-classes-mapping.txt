@@ -16,7 +16,7 @@ operadores/Incremento.java
  operadores.Incremento
 operadores/Igualdade.java
  operadores.Igualdade
-fors/For.java
- fors.For
 whiles/While.java
  whiles.While
+fors/For.java
+ fors.For
